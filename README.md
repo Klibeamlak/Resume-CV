@@ -22,6 +22,32 @@ Ottawa, ON
 
 ---
 
+## Skills
+
+**Programming Languages:**
+
+- **C++:** Proficient in developing efficient and robust applications.
+- **C:** Experienced in system-level programming and embedded systems.
+- **SQL:** Skilled in writing complex queries and database management.
+- **Java:** Adept in object-oriented programming and enterprise applications.
+- **Python:** Strong experience in scripting, data analysis, and automation.
+- **HTML/CSS:** Capable of creating responsive and interactive web pages.
+- **JavaScript:** Proficient in client-side scripting and dynamic web applications.
+
+**Technologies and Frameworks:**
+
+- **React:** Experienced in building modern, interactive user interfaces.
+- **Git:** Expertise in version control and collaborative development.
+- **Node.js:** Competent in server-side development and API creation.
+- **Spring Boot:** Proficient in building enterprise-level Java applications.
+- **MySQL:** Skilled in relational database management and optimization.
+- **PostgreSQL:** Experienced in advanced SQL features and database design.
+- **MongoDB:** Proficient in NoSQL database management and operations.
+- **Docker:** Experienced in containerization and microservices architecture.
+- **Linux:** Strong command line skills and system administration.
+
+---
+
 ## Work Experience
 
 **Carleton University - Teaching Assistant**  
@@ -52,29 +78,3 @@ Ottawa, ON | 09/2022 - 12/2022
 - The project's implementation is available on GitHub.
 
 ---
-
-## Skills
-
-**Programming Languages:**
-
-- **C++:** Proficient in developing efficient and robust applications.
-- **C:** Experienced in system-level programming and embedded systems.
-- **SQL:** Skilled in writing complex queries and database management.
-- **Java:** Adept in object-oriented programming and enterprise applications.
-- **Python:** Strong experience in scripting, data analysis, and automation.
-- **HTML/CSS:** Capable of creating responsive and interactive web pages.
-- **JavaScript:** Proficient in client-side scripting and dynamic web applications.
-
-**Technologies and Frameworks:**
-
-- **React:** Experienced in building modern, interactive user interfaces.
-- **Git:** Expertise in version control and collaborative development.
-- **Node.js:** Competent in server-side development and API creation.
-- **Spring Boot:** Proficient in building enterprise-level Java applications.
-- **MySQL:** Skilled in relational database management and optimization.
-- **PostgreSQL:** Experienced in advanced SQL features and database design.
-- **MongoDB:** Proficient in NoSQL database management and operations.
-- **Docker:** Experienced in containerization and microservices architecture.
-- **Linux:** Strong command line skills and system administration.
-
-- List your interests or hobbies.
